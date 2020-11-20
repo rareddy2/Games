@@ -9,3 +9,9 @@ C implementation of Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%
 
 ## Game_of_Nim
 Implementation of The Nim Number Game (https://education.jlab.org/nim/#:~:text=Nim%20is%20a%20game%20of,removes%20the%20last%20proton%20wins). The algorithm uses graphs to map the moves and uses machine learning to learn what move to make to win the game.
+
+## Maze_Solver
+Solves a maze. Walls are represented by "#" and empty blocks are represented by a space. 
+
+## Sudoku_Solver
+If you feed the algorithm a Sudoku Puzzle, it prints out the solution
