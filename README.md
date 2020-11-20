@@ -14,4 +14,4 @@ Implementation of The Nim Number Game (https://education.jlab.org/nim/#:~:text=N
 Solves a maze. Walls are represented by "#" and empty blocks are represented by a space. 
 
 ## Sudoku_Solver
-If you feed the algorithm a Sudoku Puzzle, it prints out the solution
+If you feed the algorithm a Sudoku Puzzle, it prints out the solution (https://en.wikipedia.org/wiki/Sudoku)
